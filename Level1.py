@@ -81,6 +81,5 @@ with open('output.json', 'w') as f:
     json.dump(output, f, indent=4)
 
 print("Output written to output.json")
-# This code was made with "help" of Genrative AI
+# This code was made with help of Genrative AI
 # The error 429 (ChatGPT) and Max retries exceeded (Gemma) of this code was unable to be fixed after adding delay.
-# :)
